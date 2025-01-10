@@ -25,9 +25,8 @@ function M.setup(colors)
   vim.g.terminal_color_6 = colors.type
   vim.g.terminal_color_14 = colors.type
 
-  vim.g.terminal_color_7 = colors.fg
+  vim.g.terminal_color_7 = colors.bg_highlight
   vim.g.terminal_color_15 = colors.fg_dark
 end
 
 return M
-
