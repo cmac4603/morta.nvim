@@ -1,1 +1,1 @@
-lua require('morta').setup() 
+lua require('morta').setup()

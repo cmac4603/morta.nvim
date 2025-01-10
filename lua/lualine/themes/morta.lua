@@ -29,7 +29,7 @@ return {
     c = { fg = colors.fg, bg = darker_bg },
   },
   inactive = {
-    a = { fg = colors.termminal_white, bg = darker_bg },
+    a = { fg = colors.terminal_white, bg = darker_bg },
     b = { fg = colors.fg, bg = darker_bg },
     c = { fg = colors.fg, bg = darker_bg },
   },
